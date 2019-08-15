@@ -1,0 +1,15 @@
+
+
+h1 {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center
+}
+canvas {
+    background-color: black;
+    margin: 0 auto
+}
